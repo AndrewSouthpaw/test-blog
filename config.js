@@ -11,7 +11,7 @@ module.exports = {
   author: 'Andrew Smith',
   githubUrl: 'https://github.com/AndrewSouthpaw/test-blog',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://app.netlify.com/sites/blissful-minsky-419a13/overview',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: '',
